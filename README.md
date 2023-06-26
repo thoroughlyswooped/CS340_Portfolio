@@ -17,7 +17,7 @@ Installation
 
 Usage
 Example Video
- [![Demo][(Demo.gif)]
+ [![Demo][(./Demo.gif)]
 
 
 Contact
