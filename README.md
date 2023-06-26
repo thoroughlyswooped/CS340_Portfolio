@@ -17,7 +17,8 @@ Installation
 
 Usage
 Example Video
-<video src="https://youtu.be/2YqZKZHGJWo"></video>
+![Demo](https://github.com/thoroughlyswooped/CS340_Portfolio/assets/35412394/0f1d1a11-c811-424f-937c-df573c12f53c)
+
 
 
 Contact
