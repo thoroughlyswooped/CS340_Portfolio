@@ -17,7 +17,7 @@ Installation
 
 Usage
 Example Video
-<video src='https://youtu.be/2YqZKZHGJWo' width=180/>
+<video> src='https://youtu.be/2YqZKZHGJWo' width=180</video>
 
 
 Contact
