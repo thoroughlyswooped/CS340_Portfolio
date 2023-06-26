@@ -22,4 +22,4 @@ Example Video
 
 
 Contact
-Your name: Ezra Huffman
+Ezra Huffman
