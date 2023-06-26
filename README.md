@@ -17,7 +17,7 @@ Installation
 
 Usage
 Example Video
- [![Demo][(./Demo.gif)]
+<video src='https://youtu.be/2YqZKZHGJWo' width=180/>
 
 
 Contact
